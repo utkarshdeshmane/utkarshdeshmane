@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./img2.png" alt="Utkarsh Deshmane Banner" width="150%" />
+  <img src="./img2.png" alt="Utkarsh Deshmane Banner" height="100%" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Deshmane</h1>
