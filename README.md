@@ -1,33 +1,14 @@
-<div align="center" style="background: linear-gradient(to bottom, #1a1c2c, #2a2f4c);">
+
+<p align="center">
+  <img src="./Img.png" alt="Utkarsh Deshmane Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Deshmane</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | AI & Data Science Graduate</h3>
 
-<!-- Add custom styling for sections -->
-<style>
-  .gradient-section {
-    background: linear-gradient(135deg, #1a1c2c 0%, #2a2f4c 100%);
-    padding: 20px;
-    border-radius: 10px;
-    margin: 15px 0;
-    color: #ffffff;
-  }
-  
-  .stats-card {
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 8px;
-    padding: 15px;
-    margin: 10px;
-    backdrop-filter: blur(10px);
-  }
-</style>
-
-<!-- Add class to sections -->
-<div class="gradient-section">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+AI+%7C+Deep+Learning;Power+BI+%7C+Tableau+%7C+Flask+%7C+FastAPI" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+AI+%7C+Deep+Learning;Power+BI+%7C+Tableau+%7C+Flask+%7C+FastAPI" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -95,16 +76,12 @@ MSBTE | 2016–2021 | Score: 88.23%
 
 ---
 
-<!-- Modify the GitHub stats section -->
-<div class="gradient-section">
-  <h3 align="center">📊 GitHub Stats</h3>
-  <div class="stats-card">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=utkarshdeshmane&show_icons=true&theme=radical&bg_color=1a1c2c&border_color=2a2f4c" width="48%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdeshmane&layout=compact&theme=radical&bg_color=1a1c2c&border_color=2a2f4c" width="48%"/>
-    </p>
-  </div>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshdeshmane&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdeshmane&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ---
 
@@ -119,6 +96,3 @@ MSBTE | 2016–2021 | Score: 88.23%
 ---
 
 <p align="center"><i>“Turning data into decisions through code and creativity.”</i></p>
-
-<!-- Add a closing div for the main container -->
-</div>
