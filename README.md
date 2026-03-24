@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT Image Mar 24, 2026, 11_18_05 AM.png
-" alt="Utkarsh Deshmane Banner" width="100%" />
+  <img src="./banner.png" alt="Utkarsh Deshmane Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Deshmane</h1>
