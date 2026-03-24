@@ -1,78 +1,65 @@
-
 <p align="center">
-  <img src="./img2.png" alt="Utkarsh Deshmane Banner" height="100%" width="100%" />
+  <img src="./img2.png" alt="Utkarsh Deshmane Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Deshmane</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | AI & Data Science Graduate</h3>
+<h3 align="center">DevOps Engineer | MLOps Engineer | AWS | CI/CD | Docker | Kubernetes</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Python+Developer;Machine+Learning+%7C+AI+%7C+Deep+Learning;Power+BI+%7C+Tableau+%7C+Flask+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+MLOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;LLMOps+%7C+LangChain+%7C+RAG+%7C+FastAPI" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-I'm a data enthusiast who loves building intelligent systems that uncover insights from data and solve real-world problems. From automating price tracking to designing real-time stock assistants, I bring creativity and precision to data-driven applications.
+### 🚀 About Me
 
-- 💡 Proficient in **Python, SQL, and Machine Learning**
-- ⚙️ Hands-on experience with **FastAPI, Flask, and Streamlit**
-- ☁️ Comfortable working with **AWS, Docker, and GitHub Actions**
-- 🧠 Always exploring **MLOps, LLMs**, and new tech trends
+DevOps & MLOps Engineer with 2+ years of experience in building scalable CI/CD pipelines, automating cloud infrastructure, and deploying containerized applications on AWS.
 
----
-
-### 🛠️ Skills & Tools
-
-#### Languages & Libraries  
-`Python` `SQL` `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `OpenCV` `Matplotlib` `Seaborn`
-
-#### Web & Cloud  
-`Flask` `FastAPI` `Streamlit` `Gunicorn` `Docker` `AWS` `GitHub Actions`
-
-#### Databases & Dev Tools  
-`MongoDB` `MySQL` `SQLite` `Git` `Jupyter Notebook` `VS Code`
-
-#### Visualization  
-`Power BI` `Tableau` `Excel`
+- ⚙️ Strong in **CI/CD (Jenkins, GitHub Actions)**
+- ☁️ Hands-on with **AWS (EC2, S3, IAM, VPC, Lambda, ECR)**
+- 🐳 Experience in **Docker & Kubernetes**
+- 🧠 Worked on **LLM-based systems (RAG, LangChain, AI pipelines)**
+- 🛠️ Skilled in **Python automation & FastAPI-based services**
 
 ---
 
-### 🚀 Projects
+### 🛠️ Tech Stack
 
-**📈 AI Stock Analysis (FastAPI + Gemini Pro)**  
-→ Conversational stock Q&A assistant using yFinance and Google Gemini  
-**🛍️ Ajio Price Tracker (Flask + Telegram Bot)**  
-→ Price drop notifications via web scraping & Telegram alerts  
-**🧱 DWELL – Wall Crack Detection (CNN + Streamlit)**  
-→ Real-time crack detection using trained CNN model  
+#### DevOps & Cloud  
+`AWS` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform`
 
----
+#### Programming & Automation  
+`Python` `Bash` `FastAPI` `REST APIs`
 
-### 🏢 Internships
+#### Monitoring & Tools  
+`CloudWatch` `Linux` `Git` `Nginx` `Postman` `Jira`
 
-**🔍 Data Analyst Intern – Cravita Technologies, Pune**  
-*Dec 2024 – Feb 2025*  
-- Developed Power BI dashboards for financial insights  
-- Analyzed trends in large datasets  
-- Improved SQL query efficiency
+#### AI / MLOps  
+`LLM` `LangChain` `RAG` `Model Deployment`
 
 ---
 
-### 🎓 Education
+### 🚀 Featured Projects
 
-**B.E. – Artificial Intelligence & Data Science**  
-Savitribai Phule Pune University | 2021–2024 | GPA: 7.14 / 10
+#### 🔥 DevOps Automation Agent
+- Automated AWS infrastructure management (EC2, ECR, IAM, SSM)
+- Built FastAPI-based system to trigger DevOps workflows
+- Automated Docker build, push, and deployment pipelines
 
-**Diploma in Computer Engineering**  
-MSBTE | 2016–2021 | Score: 88.23%
+#### 🤖 AI Model Deployment Pipeline
+- CI/CD pipeline for ML model deployment
+- Integrated GitHub + Jenkins automation
+- Reduced manual deployment effort
 
----
+#### ☁️ Multi-Tier AWS Deployment
+- Designed scalable architecture using EC2 & VPC
+- Implemented CI/CD pipelines for automated deployment
+- Secured infrastructure with IAM & security groups
 
-### 📜 Certifications
-
-- 🧠 *Data Analytics* – Fortune Cloud Technologies (2024)
-- 🐍 *Python for Data Science* – Udemy (2023)
+#### ⚡ Serverless Backend System
+- Built cost-optimized AWS Lambda + EC2 architecture
+- Implemented auto start/stop system to reduce costs
+- Used Nginx reverse proxy with Docker containers
 
 ---
 
@@ -95,4 +82,4 @@ MSBTE | 2016–2021 | Score: 88.23%
 
 ---
 
-<p align="center"><i>“Turning data into decisions through code and creativity.”</i></p>
+<p align="center"><i>“Automating infrastructure, scaling systems, and deploying intelligence.”</i></p>****
